@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Bangalore Guide</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="bangalore_subtitle"><![CDATA[India tech hub known for parks, nightlife, Bangalore Palace & Lalbagh Botanical Garden.]]></string>
+    <string name="description">Description</string>
+    <string name="main_description">
+        Bangalore is a city in the state of Karnataka. It is located at a higher altitude on the Deccan Plateau. It is very popular for a lot of things mainly its parks and gardens spread across the entire city. Through the essay on Bangalore, we will learn more about this beautiful city.
+    </string>
+    <string name="main_description2">
+        Bangalore is famous for being the Silicon Valley of India. This capital city of Karnataka is a renowned IT hub and is home to some of the world’s major IT corporations which operate out of the city. Moreover, Bangalore is also the hub to many start-ups and Indian tech companies.
+    </string>
+    <string name="main_description3">
+        Bangalore is at the centre of the peninsula and is not too far off from the coasts on both sides, it benefits from both the monsoons. The city stands at a height of about 900mts or 3000ft from sea level. As a result, the higher the altitude, the colder it tends to get.
+    </string>
+    <string name="about_this_app">About This App</string>
+    <string name="about_app_desc">This is will help you to know more about Bangalore and its places if you are new to Bangalore</string>
+    <string name="travel_spots">Travel Spots</string>
+    <string name="education">Education</string>
+    <string name="top_hotels">Top Hotels</string>
+    <string name="food_corners">Food Corners</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/tour"
+        android:icon="@drawable/ic_travel_24"
+        android:title="Travel" />
+    <item
+        android:id="@+id/Education"
+        android:icon="@drawable/ic_education_24"
+        android:title="Education" />
+    <item
+        android:id="@+id/Food"
+        android:icon="@drawable/ic_restaurants_24"
+        android:title="Restaurants" />
+    <item
+        android:id="@+id/hotel"
+        android:icon="@drawable/ic_hotel_24"
+        android:title="Hotels" />
+</menu>
